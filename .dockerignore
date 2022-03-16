@@ -1,0 +1,40 @@
+# Ignore everything
+**
+
+# Allow files and directories
+!/go.mod
+!/go.sum
+!/main.go
+!/cmd/**
+!/pkg/**
+!/internal/**
+!/api/**
+!/controllers/**
+
+
+### Unnecessary formats
+**/*.md
+
+### gitignore
+
+# Ignore unnecessary files inside allowed directories
+# This should go after the allowed directories
+# Binaries for programs and plugins
+**/*.exe
+**/*.exe~
+**/*.dll
+**/*.so
+**/*.dylib
+# Test binary, build with `go test -c`
+**/*.test
+# Output of the go coverage tool, specifically when used with LiteIDE
+**/*.out
+# editor and IDE paraphernalia
+**/*.swp
+**/*.swo
+**/*~
+
+**/*~
+**/*.log
+**/.DS_Store
+**/Thumbs.db

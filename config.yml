@@ -1,0 +1,8 @@
+logger:
+  level: debug
+profiler:
+  enabled: true
+prober:
+    period: 1s
+database:
+    url: mongodb://127.0.0.1:27017
