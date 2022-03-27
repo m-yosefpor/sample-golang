@@ -6,7 +6,7 @@ require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
 	github.com/gofiber/fiber/v2 v2.23.0
 	github.com/gofiber/jwt/v3 v3.2.2
-	github.com/golang-jwt/jwt/v4 v4.2.0
+	github.com/golang-jwt/jwt/v4 v4.4.0
 	github.com/knadh/koanf v1.3.3
 	github.com/prometheus/client_golang v1.11.0
 	github.com/pyroscope-io/pyroscope v0.5.1
