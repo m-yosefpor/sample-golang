@@ -6,17 +6,17 @@ require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
 	github.com/gofiber/fiber/v2 v2.23.0
 	github.com/gofiber/jwt/v3 v3.2.2
-	github.com/golang-jwt/jwt/v4 v4.2.0
+	github.com/golang-jwt/jwt/v4 v4.4.0
 	github.com/knadh/koanf v1.3.3
 	github.com/prometheus/client_golang v1.11.0
 	github.com/pyroscope-io/pyroscope v0.5.1
 	github.com/spf13/cobra v1.4.0
 	github.com/tchap/zapext/v2 v2.1.0
 	go.mongodb.org/mongo-driver v1.8.1
-	go.opentelemetry.io/otel v1.3.0
-	go.opentelemetry.io/otel/exporters/jaeger v1.3.0
-	go.opentelemetry.io/otel/sdk v1.3.0
-	go.opentelemetry.io/otel/trace v1.3.0
+	go.opentelemetry.io/otel v1.6.0
+	go.opentelemetry.io/otel/exporters/jaeger v1.6.0
+	go.opentelemetry.io/otel/sdk v1.6.0
+	go.opentelemetry.io/otel/trace v1.6.0
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/zap v1.19.1
 	k8s.io/klog/v2 v2.20.0
@@ -31,7 +31,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/go-logr/logr v1.2.2 // indirect
+	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.2.5 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
