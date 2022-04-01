@@ -9,7 +9,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.4.1
 	github.com/knadh/koanf v1.3.3
 	github.com/prometheus/client_golang v1.11.0
-	github.com/pyroscope-io/pyroscope v0.5.1
+	github.com/pyroscope-io/pyroscope v0.13.0
 	github.com/spf13/cobra v1.4.0
 	github.com/tchap/zapext/v2 v2.1.0
 	go.mongodb.org/mongo-driver v1.8.1
@@ -26,7 +26,7 @@ require (
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
-	github.com/asaskevich/govalidator v0.0.0-20200108200545-475eaeb16496 // indirect
+	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
@@ -37,6 +37,8 @@ require (
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
+	github.com/hashicorp/errwrap v1.0.0 // indirect
+	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/klauspost/compress v1.15.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
