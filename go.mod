@@ -11,7 +11,7 @@ require (
 	github.com/prometheus/client_golang v1.11.0
 	github.com/pyroscope-io/pyroscope v0.13.0
 	github.com/spf13/cobra v1.4.0
-	github.com/tchap/zapext/v2 v2.1.0
+	github.com/tchap/zapext/v2 v2.1.1
 	go.mongodb.org/mongo-driver v1.8.1
 	go.opentelemetry.io/otel v1.6.1
 	go.opentelemetry.io/otel/exporters/jaeger v1.6.1
