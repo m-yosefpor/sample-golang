@@ -8,7 +8,7 @@ require (
 	github.com/gofiber/jwt/v3 v3.2.10
 	github.com/golang-jwt/jwt/v4 v4.4.1
 	github.com/knadh/koanf v1.3.3
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.12.2
 	github.com/pyroscope-io/pyroscope v0.13.0
 	github.com/spf13/cobra v1.4.0
 	github.com/tchap/zapext/v2 v2.1.0
@@ -49,7 +49,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.32.1 // indirect
-	github.com/prometheus/procfs v0.6.0 // indirect
+	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/pyroscope-io/dotnetdiag v1.2.1 // indirect
 	github.com/shirou/gopsutil v3.21.4+incompatible // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
