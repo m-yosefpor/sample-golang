@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
-	github.com/gofiber/fiber/v2 v2.31.0
+	github.com/gofiber/fiber/v2 v2.38.1
 	github.com/gofiber/jwt/v3 v3.2.10
 	github.com/golang-jwt/jwt/v4 v4.4.1
 	github.com/knadh/koanf v1.3.3
@@ -56,7 +56,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
 	github.com/tklauser/numcpus v0.2.2 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.34.0 // indirect
+	github.com/valyala/fasthttp v1.40.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/scram v1.0.2 // indirect
