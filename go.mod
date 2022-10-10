@@ -4,19 +4,19 @@ go 1.17
 
 require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
-	github.com/gofiber/fiber/v2 v2.31.0
-	github.com/gofiber/jwt/v3 v3.2.10
-	github.com/golang-jwt/jwt/v4 v4.4.1
+	github.com/gofiber/fiber/v2 v2.38.1
+	github.com/gofiber/jwt/v3 v3.3.2
+	github.com/golang-jwt/jwt/v4 v4.4.2
 	github.com/knadh/koanf v1.3.3
 	github.com/prometheus/client_golang v1.11.0
 	github.com/pyroscope-io/pyroscope v0.13.0
 	github.com/spf13/cobra v1.4.0
 	github.com/tchap/zapext/v2 v2.1.1
 	go.mongodb.org/mongo-driver v1.8.1
-	go.opentelemetry.io/otel v1.6.1
+	go.opentelemetry.io/otel v1.10.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.6.1
 	go.opentelemetry.io/otel/sdk v1.6.1
-	go.opentelemetry.io/otel/trace v1.6.1
+	go.opentelemetry.io/otel/trace v1.10.0
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/zap v1.21.0
 	k8s.io/klog/v2 v2.20.0
@@ -56,7 +56,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
 	github.com/tklauser/numcpus v0.2.2 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.34.0 // indirect
+	github.com/valyala/fasthttp v1.40.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/scram v1.0.2 // indirect
