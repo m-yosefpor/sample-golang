@@ -13,10 +13,10 @@ require (
 	github.com/spf13/cobra v1.4.0
 	github.com/tchap/zapext/v2 v2.1.1
 	go.mongodb.org/mongo-driver v1.8.1
-	go.opentelemetry.io/otel v1.10.0
-	go.opentelemetry.io/otel/exporters/jaeger v1.6.1
-	go.opentelemetry.io/otel/sdk v1.6.1
-	go.opentelemetry.io/otel/trace v1.10.0
+	go.opentelemetry.io/otel v1.14.0
+	go.opentelemetry.io/otel/exporters/jaeger v1.14.0
+	go.opentelemetry.io/otel/sdk v1.14.0
+	go.opentelemetry.io/otel/trace v1.14.0
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/zap v1.21.0
 	k8s.io/klog/v2 v2.20.0
@@ -66,7 +66,7 @@ require (
 	go.uber.org/multierr v1.7.0 // indirect
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
